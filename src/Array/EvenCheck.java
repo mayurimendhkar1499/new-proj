@@ -2,6 +2,7 @@ package Array;
 
 import java.util.Scanner;
 
+
 public class EvenCheck 
 {
 	public static void main(String[] args) 
