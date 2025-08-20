@@ -3,6 +3,8 @@ package Array;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 public class EvenOdd 
 {
 	public static void main(String[] args) 
