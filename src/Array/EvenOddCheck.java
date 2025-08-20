@@ -1,5 +1,5 @@
 package Array;
-
+//hi
 import java.util.Scanner;
 
 public class EvenOddCheck 
